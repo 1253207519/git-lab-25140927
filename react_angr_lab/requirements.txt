@@ -1,0 +1,4 @@
+# 建议使用 Python 3.10/3.11/3.12，angr 对 Python 3.13 的兼容性可能滞后
+angr>=9.2.0
+openai>=1.0.0
+langchain-core>=0.2.0
