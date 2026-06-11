@@ -1,0 +1,4 @@
+# Python: standard library only.
+# Required external tools:
+# - radare2: r2 in PATH, or export R2_BIN=/path/to/r2
+# - Ghidra Headless: export GHIDRA_HEADLESS=/path/to/ghidra/support/analyzeHeadless
